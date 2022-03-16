@@ -1,0 +1,6 @@
+#*.iml
+*.jar
+build/
+target/
+out/
+.gradle/
